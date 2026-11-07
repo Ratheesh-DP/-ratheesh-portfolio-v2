@@ -469,7 +469,7 @@ const Index = () => {
       degree: "B.Tech in Artificial Intelligence and Data Science",
       institution: "Sri Shakthi Institute of Engineering and Technology",
       period: "2023 - 2027",
-      gpa: "8.33 / 10.0",
+      gpa: "6.96 / 10.0",
       status: "Currently pursuing",
       coursework: [
         "Machine Learning & Deep Learning",
@@ -486,7 +486,7 @@ const Index = () => {
       degree: "Higher Secondary Education (XII)",
       institution: "Vidyaa Vikas Matric Higher Secondary School",
       period: "2022 - 2023",
-      gpa: "76.17%",
+      gpa: "73.7%",
       status: "Completed",
       coursework: [
         "Mathematics",
@@ -520,10 +520,10 @@ const Index = () => {
       icon: "🛰️"
     },
     {
-      title: "500+ DSA Problems Solved",
+      title: "610 Coding Problems Solved",
       organization: "LeetCode & competitive platforms",
       date: "Ongoing",
-      description: "Solved 500+ Data Structures & Algorithms problems across competitive platforms",
+      description: "610 problems solved across tracked coding platforms, including 553 on LeetCode and 31 on GeeksforGeeks",
       icon: "🧩"
     },
     {
@@ -546,14 +546,84 @@ const Index = () => {
       date: "Certification",
       description: "Certified in version control fundamentals with Git",
       icon: "🌿"
+    },
+    {
+      title: "The Big Brand Theory — Finalist",
+      organization: "IIT (BHU)",
+      date: "October 2026 · Verified",
+      description: "National-level online hackathon finalist",
+      icon: "🏆"
+    },
+    {
+      title: "Nerds Room — Finalist",
+      organization: "Hackathon",
+      date: "September 2026 · Verified",
+      description: "Recognized as a finalist",
+      icon: "🏆"
+    },
+    {
+      title: "Enginow. — Finalist",
+      organization: "Hackathon",
+      date: "September 2026 · Verified",
+      description: "Recognized as a finalist",
+      icon: "🏆"
+    },
+    {
+      title: "HACKNITE — Finalist",
+      organization: "Hackathon",
+      date: "September 2026 · Verified",
+      description: "Recognized as a finalist",
+      icon: "🏆"
+    },
+    {
+      title: "CareerPrep AI International Ideathon 2026 — Finalist",
+      organization: "CareerPrep AI",
+      date: "August 2026 · Verified",
+      description: "Recognized as a finalist in the international ideathon",
+      icon: "🏆"
+    },
+    {
+      title: "QRISIS — A Crisis of Knowledge — Finalist",
+      organization: "Hackathon",
+      date: "August 2026 · Verified",
+      description: "Recognized as a finalist",
+      icon: "🏆"
+    },
+    {
+      title: "Get Real With Myntra — Finalist",
+      organization: "Myntra",
+      date: "August 2026 · Verified",
+      description: "Recognized as a finalist",
+      icon: "🏆"
+    },
+    {
+      title: "AICore Connect Hackathon — Finalist",
+      organization: "AICore Connect",
+      date: "August 2026 · Verified",
+      description: "Recognized as a finalist",
+      icon: "🏆"
+    },
+    {
+      title: "ET-AI Hackathon 2026 — Finalist",
+      organization: "ET-AI",
+      date: "August 2026 · Verified",
+      description: "Recognized as a finalist",
+      icon: "🏆"
+    },
+    {
+      title: "LMS Technical Assessment — Level 5",
+      organization: "Sri Shakthi Institute of Engineering and Technology",
+      date: "95% average · Verified",
+      description: "Cleared LMS Levels 1–5, with Level 5 as the highest completed level",
+      icon: "🎓"
     }
   ];
 
   const stats = [
-    { label: "DSA Problems Solved", value: "500+", icon: "🧩" },
+    { label: "Coding Problems Solved", value: "610", icon: "🧩" },
     { label: "Projects Built", value: `${projects.length}+`, icon: "📈" },
-    { label: "CGPA", value: "8.33", icon: "🎓" },
-    { label: "Model Accuracy", value: "90%", icon: "🤖" }
+    { label: "CGPA", value: "6.96", icon: "🎓" },
+    { label: "Hackathon Finalist Results", value: "9", icon: "🏆" }
   ];
 
   const navigationSections = [
@@ -750,7 +820,7 @@ const Index = () => {
                     <p className="text-lg leading-relaxed">
                       I'm an aspiring Data Scientist and Software Developer pursuing a B.Tech in Artificial
                       Intelligence &amp; Data Science at Sri Shakthi Institute of Engineering and Technology,
-                      Coimbatore, with a CGPA of 8.33 and a strong engineering foundation in relational database
+                      Coimbatore, with a current CGPA of 6.96 and a strong engineering foundation in relational database
                       management, analytical programming and automated architectures.
                     </p>
                     <p className="text-lg leading-relaxed">
@@ -789,7 +859,7 @@ const Index = () => {
                           When I'm Not Coding
                         </h3>
                         <ul className="space-y-2 text-muted-foreground">
-                          <li>• Solving DSA problems (500+ and counting)</li>
+                          <li>• Solving coding problems (610 across tracked platforms)</li>
                           <li>• Competing in hackathons</li>
                           <li>• Exploring new LLM tooling</li>
                           <li>• Reading AI research papers</li>
