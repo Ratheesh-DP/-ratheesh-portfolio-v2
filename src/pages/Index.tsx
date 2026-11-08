@@ -523,7 +523,7 @@ const Index = () => {
       title: "610 Coding Problems Solved",
       organization: "LeetCode & competitive platforms",
       date: "Ongoing",
-      description: "610 problems solved across tracked coding platforms, including 553 on LeetCode and 31 on GeeksforGeeks",
+      description: "The official scoresheet reports 610 coding problems solved across tracked platforms",
       icon: "🧩"
     },
     {
@@ -616,6 +616,69 @@ const Index = () => {
       date: "95% average · Verified",
       description: "Cleared LMS Levels 1–5, with Level 5 as the highest completed level",
       icon: "🎓"
+    },
+    {
+      title: "SecLeaf Q4 Operations CTF",
+      organization: "SecLeaf",
+      date: "October 2026 · Certificate of participation",
+      description: "Participated in the Q4 Operations CTF on 31 October 2026",
+      icon: "🔐"
+    },
+    {
+      title: "Open Source Participation",
+      organization: "Enginow",
+      date: "Certificate of participation",
+      description: "Participated in the Open Source program organized by Enginow",
+      icon: "🌐"
+    },
+    {
+      title: "TechTrix — Tech Quiz",
+      organization: "Government Mahila Engineering College, Ajmer",
+      date: "Certificate of participation",
+      description: "Recognized for participation and performance in the TechTrix technology quiz",
+      icon: "🧠"
+    },
+    {
+      title: "VNR Design-A-Thon 2026",
+      organization: "VNR Vignana Jyothi Institute of Engineering & Technology",
+      date: "4th edition · Certificate of participation",
+      description: "Participated as a member of Team d.p.ratheesh007",
+      icon: "💡"
+    },
+    {
+      title: "CasVerse — The Flagship Case Competition",
+      organization: "The Commerce Society, SRCC",
+      date: "Certificate of participation",
+      description: "Participated in the flagship case competition",
+      icon: "📊"
+    },
+    {
+      title: "Google Developer Groups on Campus Praxis 2.0",
+      organization: "Delhi Skill and Entrepreneurship University",
+      date: "Certificate of participation",
+      description: "Participated as a member of Team d.p.ratheesh007",
+      icon: "💻"
+    },
+    {
+      title: "Generative AI Skills Workshop",
+      organization: "GUVI · HCL",
+      date: "March 2026",
+      description: "Completed the workshop ‘Level up Your Career with Generative AI Skills’",
+      icon: "✨"
+    },
+    {
+      title: "TRiQ — Think Twice",
+      organization: "OutthinkX",
+      date: "June 2026 · Achievement certificate",
+      description: "Recognized for knowledge, quick thinking, and performance in the TRiQ competition",
+      icon: "🏅"
+    },
+    {
+      title: "Official SIET Performance Scoresheet",
+      organization: "Sri Shakthi Institute of Engineering and Technology",
+      date: "Issued October 2026 · Verified",
+      description: "Institutional record: SIET score 58 (#36), current CGPA 6.96/10, and no standing arrears",
+      icon: "📋"
     }
   ];
 
