@@ -1,2 +1,2 @@
-- [ ] Review newly uploaded certificates; add distinct, verified credentials to the portfolio.
-- [ ] Verify changes and close this roadmap.
+- [x] Review newly uploaded certificates; add distinct, verified credentials to the portfolio.
+- [x] Verify changes and close this roadmap.
