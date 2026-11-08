@@ -679,6 +679,34 @@ const Index = () => {
       date: "Issued October 2026 · Verified",
       description: "Institutional record: SIET score 58 (#36), current CGPA 6.96/10, and no standing arrears",
       icon: "📋"
+    },
+    {
+      title: "Convolve 4.0 — Generative AI Track Semi-Finalist",
+      organization: "Pan-IIT AI/ML Hackathon · IDFC FIRST Bank",
+      date: "January–February 2026",
+      description: "Recognized as a semi-finalist in the Generative AI track; also received a certificate for participating in the preliminary round",
+      icon: "🏅"
+    },
+    {
+      title: "Python Development & Data Science: Variables and Data Types",
+      organization: "Udemy · MTF Institute of Management, Technology and Finance",
+      date: "January 2025 · 1.5 hours",
+      description: "Completed the Python and data science course",
+      icon: "🐍"
+    },
+    {
+      title: "Data Analytics Using Power BI",
+      organization: "TechTip24",
+      date: "March 2025 · 4-hour workshop",
+      description: "Completed a Power BI workshop with an end-to-end project",
+      icon: "📊"
+    },
+    {
+      title: "GUVI Career & Skills Webinar Series",
+      organization: "GUVI · HCL",
+      date: "December 2024–February 2025 · Participation certificates",
+      description: "Attended six sessions on full-stack development career roadmaps, business analytics careers, data visualization, and Power BI for digital marketing",
+      icon: "🎓"
     }
   ];
 
