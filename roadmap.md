@@ -1,3 +1,2 @@
-- [x] Update portfolio achievements and metrics from the official performance scoresheet.
-- [x] Review newly uploaded certificates and images; add verified credentials or recognition to the portfolio.
-- [x] Verify the portfolio updates and close this roadmap.
+- [ ] Review newly uploaded certificates; add distinct, verified credentials to the portfolio.
+- [ ] Verify changes and close this roadmap.
