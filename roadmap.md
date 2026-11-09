@@ -1,2 +1,2 @@
-- [ ] Review latest uploaded certificates and updated resume; add confirmed, non-duplicate portfolio details.
-- [ ] Verify changes and close this roadmap.
+- [x] Review latest uploaded certificates and updated resume; add confirmed, non-duplicate portfolio details.
+- [x] Verify changes and close this roadmap.

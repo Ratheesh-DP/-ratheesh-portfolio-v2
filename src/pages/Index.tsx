@@ -707,6 +707,41 @@ const Index = () => {
       date: "December 2024–February 2025 · Participation certificates",
       description: "Attended six sessions on full-stack development career roadmaps, business analytics careers, data visualization, and Power BI for digital marketing",
       icon: "🎓"
+    },
+    {
+      title: "How Can Digital Marketing Transform Your Career in 2025?",
+      organization: "GUVI · HCL",
+      date: "December 2024 · Participation certificate",
+      description: "Attended a career-focused digital marketing webinar",
+      icon: "📣"
+    },
+    {
+      title: "Python for the Web: Create Your First App in 2 Hours",
+      organization: "SkillEcted Campus Program",
+      date: "December 2024 · Participation certificate",
+      description: "Attended a hands-on Python web application bootcamp",
+      icon: "🐍"
+    },
+    {
+      title: "SQL for Data Analysis: Generate Insights with Queries",
+      organization: "SkillEcted Campus Program",
+      date: "December 2024 · Participation certificate",
+      description: "Attended a webinar on using SQL queries for data analysis",
+      icon: "📊"
+    },
+    {
+      title: "Masterclass on Mastering Full Stack Development",
+      organization: "Physics Wallah",
+      date: "November 2024 · Participation certificate",
+      description: "Attended a comprehensive full-stack development masterclass",
+      icon: "💻"
+    },
+    {
+      title: "Master Full Stack Development and Build Your First Website",
+      organization: "SkillEcted Campus Program",
+      date: "November 2024 · Participation certificate",
+      description: "Attended a full-stack development webinar focused on building a first website",
+      icon: "🌐"
     }
   ];
 
