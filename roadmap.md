@@ -3,4 +3,4 @@
 - [x] Set the finalist summary to 10 and review public repositories from both supplied GitHub accounts.
 - [x] Add verified Ratheesh-owned projects to existing categories.
 - [ ] Confirm which repositories from Amar-7778 Ratheesh contributed to before adding them.
-- [ ] Verify the project updates and close this roadmap.
+- [x] Verify the project updates and close this roadmap.
