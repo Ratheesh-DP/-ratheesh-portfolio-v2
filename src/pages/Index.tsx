@@ -131,6 +131,79 @@ const Index = () => {
       featured: true,
       metrics: { rag: "Multi-modal", platform: "Mobile", languages: "Multilingual" }
     },
+    {
+      title: "AegisFlow",
+      description: "Real-time payment risk scoring and human-controlled AML investigations, pairing a low-latency fraud decision engine with evidence-backed case reviews and analyst approval.",
+      tech: ["Python", "FastAPI", "XGBoost", "PostgreSQL", "Redis", "LangGraph"],
+      type: "FinTech",
+      status: "Completed",
+      demo: "#",
+      github: "https://github.com/monkeydluffyx183-beep/AegisFlow",
+      metrics: { scoring: "Sub-100ms", throughput: "300 TPS", workflow: "Human-approved AML" }
+    },
+    {
+      title: "Spec Intelligence",
+      description: "Multimodal, evidence-grounded RAG for USB and engineering specifications, combining document parsing, OCR, hybrid text-and-vision retrieval, knowledge graphs, and cited answers.",
+      tech: ["Python", "RAG", "OCR", "Knowledge Graphs", "Multimodal Retrieval"],
+      type: "Agentic AI",
+      status: "Completed",
+      demo: "#",
+      github: "https://github.com/monkeydluffyx183-beep/spec-intelligence"
+    },
+    {
+      title: "Agent-WAF",
+      description: "A policy-enforcing proxy for AI agent tools that inspects, filters, and logs tool invocations in real time.",
+      tech: ["Python", "AI Agents", "Policy Enforcement", "Security"],
+      type: "Security",
+      status: "Completed",
+      demo: "#",
+      github: "https://github.com/monkeydluffyx183-beep/Agent-WAF"
+    },
+    {
+      title: "Intelligent Document Verification",
+      description: "Document verification engine for educational and identity records, with multilingual Indic OCR, fuzzy field matching, and real-time mismatch alerts.",
+      tech: ["Python", "OCR", "Document AI", "Fuzzy Matching"],
+      type: "Computer Vision",
+      status: "Completed",
+      demo: "#",
+      github: "https://github.com/monkeydluffyx183-beep/intelligent-doc-verification"
+    },
+    {
+      title: "FactoryPulse",
+      description: "Industrial equipment intelligence platform for predictive maintenance, anomaly and fault detection, remaining-useful-life estimates, and documentation-grounded maintenance assistance.",
+      tech: ["Python", "Predictive Maintenance", "MLflow", "LangGraph", "Streamlit"],
+      type: "Data Science",
+      status: "Completed",
+      demo: "#",
+      github: "https://github.com/monkeydluffyx183-beep/FactoryPulse"
+    },
+    {
+      title: "Multimodal Agentic App",
+      description: "FastAPI conversational agent backend with stateful chat, session memory, and configurable model-provider support.",
+      tech: ["Python", "FastAPI", "AI Agents", "Session Memory"],
+      type: "Agentic AI",
+      status: "Completed",
+      demo: "#",
+      github: "https://github.com/monkeydluffyx183-beep/Multimodal-Agentic-app"
+    },
+    {
+      title: "Production-Ready RAG Website Chatbot",
+      description: "Website knowledge chatbot that ingests web content and provides streaming, grounded responses backed by persistent vector search.",
+      tech: ["Python", "FastAPI", "Next.js", "ChromaDB", "RAG"],
+      type: "Agentic AI",
+      status: "Completed",
+      demo: "#",
+      github: "https://github.com/monkeydluffyx183-beep/Production-Ready-RAG-Website-Chatbot"
+    },
+    {
+      title: "Road Damage Detection",
+      description: "YOLOv8 computer-vision project for detecting and classifying road damage such as potholes and cracks.",
+      tech: ["Python", "YOLOv8", "Computer Vision"],
+      type: "Computer Vision",
+      status: "Completed",
+      demo: "#",
+      github: "https://github.com/monkeydluffyx183-beep/Road_Emergency"
+    },
 
     /* ---------- Agentic AI & LLM Apps ---------- */
     {
@@ -749,7 +822,7 @@ const Index = () => {
     { label: "Coding Problems Solved", value: "610", icon: "🧩" },
     { label: "Projects Built", value: `${projects.length}+`, icon: "📈" },
     { label: "CGPA", value: "6.96", icon: "🎓" },
-    { label: "Hackathon Finalist Results", value: "9", icon: "🏆" }
+    { label: "Hackathon Finalist Results", value: "10", icon: "🏆" }
   ];
 
   const navigationSections = [

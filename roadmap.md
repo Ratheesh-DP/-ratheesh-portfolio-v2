@@ -1,4 +1,6 @@
 - [x] Review latest uploaded certificates and updated resume; add confirmed, non-duplicate portfolio details.
 - [x] Verify changes and close this roadmap.
-- [ ] Set the finalist summary to 10 and review public repositories from both supplied GitHub accounts.
-- [ ] Add appropriate projects to existing categories and verify the updates.
+- [x] Set the finalist summary to 10 and review public repositories from both supplied GitHub accounts.
+- [x] Add verified Ratheesh-owned projects to existing categories.
+- [ ] Confirm which repositories from Amar-7778 Ratheesh contributed to before adding them.
+- [x] Verify the project updates and close this roadmap.
