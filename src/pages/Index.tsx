@@ -542,7 +542,7 @@ const Index = () => {
       degree: "B.Tech in Artificial Intelligence and Data Science",
       institution: "Sri Shakthi Institute of Engineering and Technology",
       period: "2023 - 2027",
-      gpa: "6.96 / 10.0",
+      gpa: "8.32 / 10.0",
       status: "Currently pursuing",
       coursework: [
         "Machine Learning & Deep Learning",
@@ -750,7 +750,7 @@ const Index = () => {
       title: "Official SIET Performance Scoresheet",
       organization: "Sri Shakthi Institute of Engineering and Technology",
       date: "Issued October 2026 · Verified",
-      description: "Institutional record: SIET score 58 (#36), current CGPA 6.96/10, and no standing arrears",
+      description: "Institutional record issued October 2026: SIET score 58 (#36), CGPA 6.96/10, and no standing arrears",
       icon: "📋"
     },
     {
@@ -821,7 +821,7 @@ const Index = () => {
   const stats = [
     { label: "Coding Problems Solved", value: "610", icon: "🧩" },
     { label: "Projects Built", value: `${projects.length}+`, icon: "📈" },
-    { label: "CGPA", value: "6.96", icon: "🎓" },
+    { label: "CGPA", value: "8.32", icon: "🎓" },
     { label: "Hackathon Finalist Results", value: "10", icon: "🏆" }
   ];
 
@@ -1019,7 +1019,7 @@ const Index = () => {
                     <p className="text-lg leading-relaxed">
                       I'm an aspiring Data Scientist and Software Developer pursuing a B.Tech in Artificial
                       Intelligence &amp; Data Science at Sri Shakthi Institute of Engineering and Technology,
-                      Coimbatore, with a current CGPA of 6.96 and a strong engineering foundation in relational database
+                      Coimbatore, with a current CGPA of 8.32 and a strong engineering foundation in relational database
                       management, analytical programming and automated architectures.
                     </p>
                     <p className="text-lg leading-relaxed">
